@@ -1,2 +1,2 @@
-# express
-Playing around with the express framework
+# bike-builds-express
+An inventory of my bikes made with the express framework
